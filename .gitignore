@@ -18,3 +18,5 @@ local.properties
 .classpath
 .settings/
 .loadpath
+Будет удалено src/main/resources/
+Будет удалено src/test/resources/
