@@ -1,0 +1,20 @@
+#################
+## IntelliJ IDEA
+#################
+.idea/
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+target/
+.iml
+.tmp
+.bak
+.swp
+~.nib
+local.properties
+.classpath
+.settings/
+.loadpath
